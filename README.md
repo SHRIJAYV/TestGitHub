@@ -1,2 +1,2 @@
 # TestGitHub
-Github tutorial
+TestGitHub is a reposiotiry for showing how GhiHub works.
